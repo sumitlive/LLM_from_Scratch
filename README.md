@@ -1,4 +1,4 @@
-# 🧠 GPT-From-Scratch-Sandbox: The LLM Lifecycle Playground
+# 🧠 GPT-From-Scratch :
 
 A custom-built, **355-million parameter Decoder-Only Transformer** (GPT-2 Medium architecture) implemented entirely from scratch in PyTorch, loaded with pre-trained weights, and instruction fine-tuned using Low-Rank Adaptation (LoRA).
 
